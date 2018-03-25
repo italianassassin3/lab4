@@ -4,6 +4,13 @@ import java.util.Comparator;
 
 import sorterClasses.AbstractSorter.DefaultComparator;
 import sortersTesterClasses.Entero;
+
+/**
+ * 
+ *
+ *@author Jose E. Frontanez Rivera (italianassassin3), 843-11-2851, 050
+ */
+
 //Tried to implement OddEvenSortSorter according to slides in slides for fun
 //Not needed for lab
 public class OddEvenSortSorter<E> extends AbstractMaxValueSorter<E> {

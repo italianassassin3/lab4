@@ -5,6 +5,11 @@ import java.util.Comparator;
 import sorterClasses.AbstractSorter.DefaultComparator;
 import sortersTesterClasses.Entero;
 
+/**
+ * Implements the cocktail sort
+ *
+ *@author Jose E. Frontanez Rivera (italianassassin3), 843-11-2851, 050
+ */
 public class CocktailSortSorter<E> extends AbstractMaxValueSorter<E> {
 	boolean swapped = true;
 	public CocktailSortSorter() {
